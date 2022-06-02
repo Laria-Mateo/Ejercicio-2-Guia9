@@ -1,0 +1,20 @@
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.exe.config
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.exe
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.pdb
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.AssemblyReference.cache
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.Form1.resources
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.Properties.Resources.resources
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.GenerateResource.cache
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.CoreCompileInputs.cache
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.exe
+C:\Users\matel\source\repos\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.pdb
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.exe.config
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.exe
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\bin\Debug\Ejercicio2_Guia9.pdb
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.AssemblyReference.cache
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.Form1.resources
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.Properties.Resources.resources
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.GenerateResource.cache
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.csproj.CoreCompileInputs.cache
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.exe
+A:\UTN-20220503T040624Z-001\UTN\Laboratorio de computacion 1\Guia 9\Ejercicio2_Guia9\Ejercicio2_Guia9\obj\Debug\Ejercicio2_Guia9.pdb
